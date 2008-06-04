@@ -1,0 +1,7 @@
+content ircelogger content/
+overlay chrome://browser/content/browser.xul    chrome://ircelogger/content/ircelogger.xul
+
+# locale  slogger         en-US   jar:chrome/slogger.jar!/locale/en-US/
+
+# skin    slogger         classic jar:chrome/slogger.jar!/skin/classic/
+# style   chrome://global/content/customizeToolbar.xul    chrome://slogger/skin/slogger.css
